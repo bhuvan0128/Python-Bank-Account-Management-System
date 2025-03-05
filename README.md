@@ -1,5 +1,8 @@
 # Python Bank Account Management System
 
+## Overview
+The Bank Account Management System is a Python-based application that allows users to create and manage bank accounts, perform transactions, and view transaction history. This project demonstrates key Python concepts, including file handling, data structures, functions, and error handling.
+
 ## **Key Features**  
 
 ### **1. Account Management**  
